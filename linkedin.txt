@@ -1,7 +1,0 @@
-Full-stack engineer with 20+ years of experience designing, building, and modernizing systems and SaaS platforms. Now in Basel, excited to partner with innovative teams driving AI-enabled products.
-
-I've lived and worked in Rio de Janeiro, Berlin, Athens, Lisbon, and Zürich, contributing to startups, NGOs, and product teams as a software engineer, data specialist, instructor, and Tech Lead.
-
-My work combines technical depth with project leadership and product thinking, spanning API architecture, data engineering (ETL), data modeling and visualization, interface design, DevOps, and AI/LLM integrations.
-
-Core stack: Python · Ruby on Rails · TypeScript · React · PostgreSQL · Docker · CI/CD · AWS · AI Agents
